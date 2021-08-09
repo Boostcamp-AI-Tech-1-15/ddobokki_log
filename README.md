@@ -8,10 +8,10 @@
 
 ## 👋 팀원/모더레이터
 
-|김다영|문하겸|박지민|이요한|전준영|정민지|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [![Avatar](https://avatars.githubusercontent.com/u/68893924?v=4)](https://github.com/keemdy) | [![Avatar](https://avatars.githubusercontent.com/u/44228269?v=4)](https://github.com/ddobokki) | [![Avatar](https://avatars.githubusercontent.com/u/82632580?v=4)](https://github.com/ddeokbboki-good) | [![Avatar](https://avatars.githubusercontent.com/u/49181231?v=4)](https://github.com/l-yohai) | [![Avatar](https://avatars.githubusercontent.com/u/50571795?v=4)](https://github.com/20180707jun) | [![Avatar](https://avatars.githubusercontent.com/u/45448731?v=4)](https://github.com/minji-o-j) |
-|week5|week2|week4|week1|　　　	　		　　　	|week3|
+|김다영|김아경|문하겸|박지민|이요한|전준영|정민지|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [![Avatar](https://avatars.githubusercontent.com/u/68893924?v=4)](https://github.com/keemdy) |[![Avatar](https://avatars.githubusercontent.com/u/70522267?v=4)](https://github.com/EP000)| [![Avatar](https://avatars.githubusercontent.com/u/44228269?v=4)](https://github.com/ddobokki) | [![Avatar](https://avatars.githubusercontent.com/u/82632580?v=4)](https://github.com/ddeokbboki-good) | [![Avatar](https://avatars.githubusercontent.com/u/49181231?v=4)](https://github.com/l-yohai) | [![Avatar](https://avatars.githubusercontent.com/u/50571795?v=4)](https://github.com/20180707jun) | [![Avatar](https://avatars.githubusercontent.com/u/45448731?v=4)](https://github.com/minji-o-j) |
+|week5|　　|week2|week4|week1|　　　	　		　　　	|week3|
 
 - 모더레이터: 주차별로 돌아가기
 <br>
